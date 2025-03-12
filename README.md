@@ -26,3 +26,14 @@ As a result,:
 * The most popular course organizations and their course offerings were identified.
 * Insights into course distribution by difficulty level and rating were visualized.
 * Recommendations for improving data analysis include further segmentation by course price and lenght.
+
+# [Project 4: Marketing Campaign Analysis](https://docs.google.com/spreadsheets/d/1pc6ISz6b9Y7QaQ60OowUrMy310eFiqQHEpfmhmeuTpM/edit?gid=0#gid=0)
+### Project Overview
+This analysis evaluates the effectiveness of three marketing promotions (Promotion 1, Promotion 2, and Promotion 3) in driving sales, using A/B Testing.
+Key steps included:
+Summarizing sales data by promotion and location.
+Conducting pairwise statistical comparisons between promotions.
+Identifying the most effective promotion based on sales performance.
+Outcome
+Promotion 1 emerged as the most effective, showing a significant sales increase compared to Promotion 2.
+No significant difference was found between other campaigns.
