@@ -5,13 +5,24 @@ This is portfolio of data analytics projects showcasing skills in data analysis,
 
 This is where raw data transforms into `insights`, numbers tell `stories`, and analytics drives `decisions`! 
 
-# Project 1: Cardiovascular Disease Prediction
+# [Project 1: Cardiovascular Disease Prediction](https://github.com/TuringCollegeSubmissions/aivanc-PYDA.4.4)
 
-### [Project Overview](https://github.com/TuringCollegeSubmissions/aivanc-PYDA.4.4)
-
+### Project Overview
 This project focuses on predicting the risk of Coronary Heart Disease (CHD) using a Logistic Regression model. The dataset contains multiple clinical variables such as age, cholesterol levels, blood pressure, BMI, and glucose levels. The goal is to build a predictive model that can assist in identifying individuals at higher risk of CHD.
 The workflow included:
 * Data Preprocessing: Handled missing values, removed irrelevant features, and addressed potential data inconsistencies.
 * Exploratory Data Analysis (EDA): Identified key risk factors influencing CHD, such as age, smoking habits, cholesterol levels, and blood pressure.
 * Model Development: Implemented a logistic regression model for binary classification of CHD risk.
 * Performance Evaluation: Selected the most appropriate classification metrics and determined the optimal decision threshold for better risk assessment.
+
+# Project 2: Melbourne House Price Prediction
+### Project Overview
+In this project, I conducted an in-depth analysis of the Melbourne housing market, focusing on predictive modeling for property prices. I cleaned and preprocessed the dataset by handling missing values, removing irrelevant columns, and addressing outliers. Using exploratory data analysis (EDA), I identified key factors influencing house prices and built a regression model to predict them.
+
+# [Project 3: Coursera Course Dataset Analysis](https://github.com/TuringCollegeSubmissions/aivanc-PYDA.3.5)
+### Project Overview
+This project analyzes the Coursera Course Dataset using Python. It includes loading, cleaning, performing exploratory data analysis, and visualizing key trends. The goal is to extract insights and suggest improvements for further analysis.
+As a result,:
+* The most popular course organizations and their course offerings were identified.
+* Insights into course distribution by difficulty level and rating were visualized.
+* Recommendations for improving data analysis include further segmentation by course price and lenght.
