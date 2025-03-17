@@ -15,17 +15,23 @@ The workflow included:
 * Model Development: Implemented a logistic regression model for binary classification of CHD risk.
 * Performance Evaluation: Selected the most appropriate classification metrics and determined the optimal decision threshold for better risk assessment.
 
+![image](https://github.com/user-attachments/assets/f3ba4c8e-851f-44ab-a2db-82bac621c96a)
+
+
 # [Project 2: Order Forecasting for ERP System]()
 In this project, I aim to build a forecasting model to predict future orders based on historical order data for an Enterprise Resource Planning (ERP) system. Accurate forecasting of order volumes is critical for businesses to optimize their inventory management, procurement, and production planning.
 
 The forecasting model I will develop uses time series analysis to predict future orders based on the past data. I will apply a Seasonal ARIMA (SARIMA) model, which is an extension of the ARIMA (AutoRegressive Integrated Moving Average) model that accounts for both non-seasonal and seasonal components in time series data.
 
-(![image](https://github.com/user-attachments/assets/6fe52ea4-4ba2-4600-840d-51dc4df9e067)
+![image](https://github.com/user-attachments/assets/6fe52ea4-4ba2-4600-840d-51dc4df9e067)
 
 
 # Project 3: Melbourne House Price Prediction
 ### Project Overview
 In this project, I conducted an in-depth analysis of the Melbourne housing market, focusing on predictive modeling for property prices. I cleaned and preprocessed the dataset by handling missing values, removing irrelevant columns, and addressing outliers. Using exploratory data analysis (EDA), I identified key factors influencing house prices and built a regression model to predict them.
+
+![image](https://github.com/user-attachments/assets/bfca6a53-62a8-45f0-96f1-4c3cc2c328dc)
+
 
 # [Project 4: Coursera Course Dataset Analysis](https://github.com/TuringCollegeSubmissions/aivanc-PYDA.3.5)
 ### Project Overview
@@ -34,6 +40,9 @@ As a result,:
 * The most popular course organizations and their course offerings were identified.
 * Insights into course distribution by difficulty level and rating were visualized.
 * Recommendations for improving data analysis include further segmentation by course price and lenght.
+
+  ![image](https://github.com/user-attachments/assets/40f02101-b515-48f8-9d4e-851c01fe1c5b)
+
 
 # [Project 5: Marketing Campaign Analysis](https://docs.google.com/spreadsheets/d/1pc6ISz6b9Y7QaQ60OowUrMy310eFiqQHEpfmhmeuTpM/edit?gid=0#gid=0)
 ### Project Overview
@@ -49,3 +58,6 @@ Outcome:
 Promotion 1 emerged as the most effective, showing a significant sales increase compared to Promotion 2.
 
 No significant difference was found between other campaigns.
+
+![image](https://github.com/user-attachments/assets/1d4fec0f-b1c7-4aef-9945-c6a46568859f)
+
