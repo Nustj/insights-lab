@@ -20,6 +20,8 @@ In this project, I aim to build a forecasting model to predict future orders bas
 
 The forecasting model I will develop uses time series analysis to predict future orders based on the past data. I will apply a Seasonal ARIMA (SARIMA) model, which is an extension of the ARIMA (AutoRegressive Integrated Moving Average) model that accounts for both non-seasonal and seasonal components in time series data.
 
+https://github.com/Nustj/insights-lab/blob/main/images/Screenshot%202025-03-17%20213720.png?raw=true
+
 # Project 3: Melbourne House Price Prediction
 ### Project Overview
 In this project, I conducted an in-depth analysis of the Melbourne housing market, focusing on predictive modeling for property prices. I cleaned and preprocessed the dataset by handling missing values, removing irrelevant columns, and addressing outliers. Using exploratory data analysis (EDA), I identified key factors influencing house prices and built a regression model to predict them.
