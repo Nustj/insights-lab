@@ -20,7 +20,7 @@ In this project, I aim to build a forecasting model to predict future orders bas
 
 The forecasting model I will develop uses time series analysis to predict future orders based on the past data. I will apply a Seasonal ARIMA (SARIMA) model, which is an extension of the ARIMA (AutoRegressive Integrated Moving Average) model that accounts for both non-seasonal and seasonal components in time series data.
 
-![alt text](Screenshot 2025-03-17 213720.png)
+![](Images/Screenshot 2025-03-17 213720.png)
 
 # Project 3: Melbourne House Price Prediction
 ### Project Overview
