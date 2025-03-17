@@ -18,7 +18,8 @@ The workflow included:
 ![image](https://github.com/user-attachments/assets/f3ba4c8e-851f-44ab-a2db-82bac621c96a)
 
 
-# [Project 2: Order Forecasting for ERP System]()
+# [Project 2: Order Forecasting for ERP System](https://github.com/Nustj/insights-lab/blob/main/ARIMA_Forecasting.ipynb)
+### Project Overview
 In this project, I aim to build a forecasting model to predict future orders based on historical order data for an Enterprise Resource Planning (ERP) system. Accurate forecasting of order volumes is critical for businesses to optimize their inventory management, procurement, and production planning.
 
 The forecasting model I will develop uses time series analysis to predict future orders based on the past data. I will apply a Seasonal ARIMA (SARIMA) model, which is an extension of the ARIMA (AutoRegressive Integrated Moving Average) model that accounts for both non-seasonal and seasonal components in time series data.
@@ -26,14 +27,14 @@ The forecasting model I will develop uses time series analysis to predict future
 ![image](https://github.com/user-attachments/assets/6fe52ea4-4ba2-4600-840d-51dc4df9e067)
 
 
-# Project 3: Melbourne House Price Prediction
+# [Project 3: Melbourne House Price Prediction](https://github.com/Nustj/insights-lab/blob/main/Melbourne%20Housing%20Market.ipynb)
 ### Project Overview
 In this project, I conducted an in-depth analysis of the Melbourne housing market, focusing on predictive modeling for property prices. I cleaned and preprocessed the dataset by handling missing values, removing irrelevant columns, and addressing outliers. Using exploratory data analysis (EDA), I identified key factors influencing house prices and built a regression model to predict them.
 
 ![image](https://github.com/user-attachments/assets/bfca6a53-62a8-45f0-96f1-4c3cc2c328dc)
 
 
-# [Project 4: Coursera Course Dataset Analysis](https://github.com/TuringCollegeSubmissions/aivanc-PYDA.3.5)
+# [Project 4: Coursera Course Dataset Analysis](https://github.com/Nustj/insights-lab))
 ### Project Overview
 This project analyzes the Coursera Course Dataset using Python. It includes loading, cleaning, performing exploratory data analysis, and visualizing key trends. The goal is to extract insights and suggest improvements for further analysis.
 As a result,:
