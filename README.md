@@ -15,11 +15,16 @@ The workflow included:
 * Model Development: Implemented a logistic regression model for binary classification of CHD risk.
 * Performance Evaluation: Selected the most appropriate classification metrics and determined the optimal decision threshold for better risk assessment.
 
-# Project 2: Melbourne House Price Prediction
+# [Project 2: Order Forecasting for ERP System]()
+In this project, I aim to build a forecasting model to predict future orders based on historical order data for an Enterprise Resource Planning (ERP) system. Accurate forecasting of order volumes is critical for businesses to optimize their inventory management, procurement, and production planning.
+
+The forecasting model I will develop uses time series analysis to predict future orders based on the past data. I will apply a Seasonal ARIMA (SARIMA) model, which is an extension of the ARIMA (AutoRegressive Integrated Moving Average) model that accounts for both non-seasonal and seasonal components in time series data.
+
+# Project 3: Melbourne House Price Prediction
 ### Project Overview
 In this project, I conducted an in-depth analysis of the Melbourne housing market, focusing on predictive modeling for property prices. I cleaned and preprocessed the dataset by handling missing values, removing irrelevant columns, and addressing outliers. Using exploratory data analysis (EDA), I identified key factors influencing house prices and built a regression model to predict them.
 
-# [Project 3: Coursera Course Dataset Analysis](https://github.com/TuringCollegeSubmissions/aivanc-PYDA.3.5)
+# [Project 4: Coursera Course Dataset Analysis](https://github.com/TuringCollegeSubmissions/aivanc-PYDA.3.5)
 ### Project Overview
 This project analyzes the Coursera Course Dataset using Python. It includes loading, cleaning, performing exploratory data analysis, and visualizing key trends. The goal is to extract insights and suggest improvements for further analysis.
 As a result,:
@@ -27,7 +32,7 @@ As a result,:
 * Insights into course distribution by difficulty level and rating were visualized.
 * Recommendations for improving data analysis include further segmentation by course price and lenght.
 
-# [Project 4: Marketing Campaign Analysis](https://docs.google.com/spreadsheets/d/1pc6ISz6b9Y7QaQ60OowUrMy310eFiqQHEpfmhmeuTpM/edit?gid=0#gid=0)
+# [Project 5: Marketing Campaign Analysis](https://docs.google.com/spreadsheets/d/1pc6ISz6b9Y7QaQ60OowUrMy310eFiqQHEpfmhmeuTpM/edit?gid=0#gid=0)
 ### Project Overview
 This analysis evaluates the effectiveness of three marketing promotions (Promotion 1, Promotion 2, and Promotion 3) in driving sales, using A/B Testing.
 Key steps included:
