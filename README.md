@@ -32,8 +32,12 @@ As a result,:
 This analysis evaluates the effectiveness of three marketing promotions (Promotion 1, Promotion 2, and Promotion 3) in driving sales, using A/B Testing.
 Key steps included:
 Summarizing sales data by promotion and location.
+
 Conducting pairwise statistical comparisons between promotions.
+
 Identifying the most effective promotion based on sales performance.
-Outcome
+
+Outcome:
 Promotion 1 emerged as the most effective, showing a significant sales increase compared to Promotion 2.
+
 No significant difference was found between other campaigns.
